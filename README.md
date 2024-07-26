@@ -1,6 +1,5 @@
 # Vijay Gorakh Wagh's Portfolio Website
 
-![Website Screenshot](path/to/screenshot.png)
 
 ## Introduction
 Welcome to my portfolio website! I'm Vijay Gorakh Wagh, an engineering student pursuing a degree in Computer Science. This website showcases my projects, skills, and experiences.
