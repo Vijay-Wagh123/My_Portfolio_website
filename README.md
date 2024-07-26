@@ -24,5 +24,4 @@ To view and edit this project locally, follow these steps:
    ```bash
    git clone https://github.com/Vijay-Wagh123/portfolio-website.git
 
-    **Clone the repository**:
-   vijuwagh33@gmail.com
+## Contact:vijuwagh33@gmail.com
