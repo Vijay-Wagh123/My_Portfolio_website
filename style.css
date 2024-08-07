@@ -10,6 +10,7 @@ body {
     background-size: cover;
     background-position: center;
     color: #fff;
+    background-color: antiquewhite;
 }
 
 .container {
@@ -63,6 +64,7 @@ body {
     display: flex;
     flex-direction: column;
     justify-content: center;
+    color:rgb(27, 29, 153);
 }
 
 .hello {
